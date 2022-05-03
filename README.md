@@ -1,4 +1,4 @@
-# 11-Project-1 Potential Questions:
+# 11-Project-1 Questions:
 
 What city had the most cars sold?
 What state had the most cars sold?
